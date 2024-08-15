@@ -1,0 +1,1 @@
+0.5159723568254305	0.53934	0.7361004595970616  1 * proto_loss_sc2mp + 0.3 * loss_intramp intra_mp = self.sim
